@@ -35,7 +35,7 @@ export default function TermsModal({ onClose }) {
           Nutzungsbedingungen
         </div>
         <div style={{ fontSize: '16px', fontWeight: 700, marginBottom: '20px' }}>
-          Hiermit erkl&auml;ren Sie sich einverstanden...
+          Hiermit erklären Sie sich einverstanden...
         </div>
         <div style={{
           background: 'oklch(93% 0.02 90)',
@@ -61,7 +61,7 @@ export default function TermsModal({ onClose }) {
           />
         </div>
         <div style={{ fontSize: '12px', fontWeight: 700, color: '#555', marginTop: '14px', marginBottom: '24px' }}>
-          Als Entsch&auml;digung f&uuml;r die Bedingungen, die Sie nie lesen werden.
+          Als Entschädigung für die Bedingungen, die Sie nie lesen werden.
         </div>
         <button
           onClick={onClose}

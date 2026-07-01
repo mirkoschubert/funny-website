@@ -53,7 +53,7 @@ function TreasureMap() {
         &#x2715;
       </div>
       <div style={{ position: 'absolute', bottom: '22px', right: '24px', fontFamily: 'Caveat, cursive', fontSize: '22px', fontWeight: 700, color: '#3a2413', textAlign: 'right' }}>
-        Ziel: Unser Buro<br />(Kaffee vorhanden)
+        Ziel: Unser Büro<br />(Kaffee vorhanden)
       </div>
     </div>
   );
@@ -102,7 +102,7 @@ export default function Kontakt({ contactName, contactEmail, contactMessage, con
             Nachricht gesendet.
           </div>
           <div style={{ fontSize: '14px', fontWeight: 700, color: '#1a1a1a', lineHeight: 1.6 }}>
-            Horst hat deine Nachricht erhalten. Er wird sich nie melden, aber schon, dass du sie los bist.
+            Horst hat deine Nachricht erhalten. Er wird sich nie melden, aber schön, dass du sie los bist.
           </div>
           <button
             onClick={resetContactForm}

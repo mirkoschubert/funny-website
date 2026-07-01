@@ -22,14 +22,14 @@ export default function Impressum({ impressumMinutes }) {
         lineHeight: 1.9,
         color: '#1a1a1a',
       }}>
-        <div>Angaben gem&auml;&szlig; &sect; 5 TMG:</div>
+        <div>Angaben gemäß § 5 TMG:</div>
         <div style={{ marginTop: '14px' }}>
-          Papierkorb &amp; Partner GmbH<br />
-          Musterstra&szlig;e 12<br />
+          Papierkorb & Partner GmbH<br />
+          Musterstraße 12<br />
           20095 Hamburg
         </div>
         <div style={{ marginTop: '14px' }}>
-          Vertreten durch: Horst B&uuml;mmel, Gesch&auml;ftsf&uuml;hrer
+          Vertreten durch: Horst Bümmel, Geschäftsführer
         </div>
         <div style={{ marginTop: '14px' }}>
           Kontakt: Telefon zwecklos, E-Mail siehe Kontaktformular

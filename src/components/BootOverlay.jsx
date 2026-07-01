@@ -21,7 +21,7 @@ export default function BootOverlay({ bootProgress, bootLabel }) {
         animation: 'bounceLogo 1s ease-in-out infinite',
         WebkitTextStroke: '2px #1a1a1a',
       }}>
-        Papierkorb &amp; Partner
+        Papierkorb & Partner
       </div>
       <div style={{
         width: '280px',

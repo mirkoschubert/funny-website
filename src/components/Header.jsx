@@ -45,7 +45,7 @@ export default function Header({ goHome, goKontakt, goImpressum, navBtnStyle }) 
           WebkitTextStroke: '1px #1a1a1a',
         }}
       >
-        Papierkorb &amp; Partner
+        Papierkorb & Partner
       </div>
       <nav style={{ display: 'flex', gap: '18px', alignItems: 'center' }}>
         <a

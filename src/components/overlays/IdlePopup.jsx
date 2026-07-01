@@ -38,7 +38,7 @@ export default function IdlePopup({ stage, onClose, onYes, onNo }) {
             Hey. Noch da?
           </div>
           <div style={{ fontSize: '13px', fontWeight: 700, color: '#1a1a1a', marginBottom: '16px' }}>
-            Soll ich dir einen witzigen Fakt &uuml;ber Ziegen erz&auml;hlen?
+            Soll ich dir einen witzigen Fakt über Ziegen erzählen?
           </div>
           <div style={{ display: 'flex', gap: '10px' }}>
             <button

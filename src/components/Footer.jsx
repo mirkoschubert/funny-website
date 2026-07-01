@@ -17,7 +17,7 @@ export default function Footer({ toggleTerms, go404, handleScrollTop, scrollBtnS
       background: 'oklch(58% 0.19 25)',
     }}>
       <div style={{ fontSize: '13px', fontWeight: 800, color: 'white' }}>
-        &copy; 2026 Papierkorb &amp; Partner GmbH
+        © 2026 Papierkorb & Partner GmbH
       </div>
       <div style={{ display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap' }}>
         <a

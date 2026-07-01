@@ -14,7 +14,7 @@ export default function ScrollMessage() {
       border: '3px solid #1a1a1a',
       boxShadow: '5px 5px 0 #1a1a1a',
     }}>
-      Jetzt h&ouml;r aber auf.
+      Jetzt hör aber auf.
     </div>
   );
 }

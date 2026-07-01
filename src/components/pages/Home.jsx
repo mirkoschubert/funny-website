@@ -131,7 +131,7 @@ export default function Home({ heroCtaStyle, jumpHero, cursorFound, cursorSecond
             boxShadow: '4px 4px 0 #1a1a1a',
             transform: 'rotate(-3deg)',
           }}>
-            &#x2605; SEIT 2011 UNVERANDERT ERFOLGREICH &#x2605;
+            ★ SEIT 2011 UNVERÄNDERT ERFOLGREICH ★
           </div>
           <div style={{
             fontFamily: 'Bangers, cursive',
@@ -142,7 +142,7 @@ export default function Home({ heroCtaStyle, jumpHero, cursorFound, cursorSecond
             WebkitTextStroke: '2px #1a1a1a',
             textShadow: '4px 4px 0 #1a1a1a',
           }}>
-            Zukunftssichere Losungen fur Ihr Unternehmen.
+            Zukunftssichere Lösungen für Ihr Unternehmen.
           </div>
           <p style={{
             fontSize: '18px',
@@ -183,7 +183,7 @@ export default function Home({ heroCtaStyle, jumpHero, cursorFound, cursorSecond
         />
         <ServiceCard
           title="Nachhaltige Skalierung"
-          description="Wachst, bis es das nicht mehr tut."
+          description="Wächst, bis es das nicht mehr tut."
           bg="oklch(75% 0.13 245)"
           titleStyle={{ color: 'white', WebkitTextStroke: '0.5px #1a1a1a' }}
         />
@@ -206,7 +206,7 @@ export default function Home({ heroCtaStyle, jumpHero, cursorFound, cursorSecond
             Finden Sie unseren Cursor.
           </div>
           <p style={{ fontSize: '14px', fontWeight: 700, color: '#1a1a1a', marginBottom: '18px' }}>
-            Ein interaktives Feature fur zwischendurch. Bewegen Sie sich in der Box.
+            Ein interaktives Feature für zwischendurch. Bewegen Sie sich in der Box.
           </p>
           <CursorGame
             cursorFound={cursorFound}

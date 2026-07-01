@@ -285,7 +285,7 @@ export function useApp() {
     page,
     bootPhase,
     bootProgress,
-    bootLabel: bootPhase === 'loading' ? bootProgress + '%' : bootPhase === 'joke' ? 'Nur Spass.' : '',
+    bootLabel: bootPhase === 'loading' ? bootProgress + '%' : bootPhase === 'joke' ? 'Nur Spaß.' : '',
     cursorFound,
     cursorSeconds,
     heroCtaStyle,

@@ -60,7 +60,7 @@ export default function NotFound({ goHome }) {
           transition: 'transform .12s ease, box-shadow .12s ease',
         }}
       >
-        Zur&uuml;ck zur Startseite
+        Zurück zur Startseite
       </button>
     </div>
   );
